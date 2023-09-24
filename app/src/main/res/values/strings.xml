@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TIX ID</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="hello">Hello,</string>
+    <string name="user">User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="star">Star</string>
+    <string name="movie">Movie</string>
+    <string name="moviename">MovieName</string>
+    <string name="moviegenre">MovieGenre</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="old_password">Old Password</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
